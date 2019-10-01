@@ -1,8 +1,6 @@
-<h1>Assignment #3 - Sequences and recursion</h1>
+<h1>Discrete Mathematics Assignment #3 - Sequences and recursion</h1>
 
-<h4>Discrete Mathematics</h4>
-
-<h2>assignment</h2>
+<h2>Assignment</h2>
 
 1. Create a class Rationals that implements the Sequence of Positive Rational
 Numbers as discussed in class.

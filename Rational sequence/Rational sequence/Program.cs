@@ -11,10 +11,7 @@ namespace Rational_sequence
         static void Main(string[] args)
         {
             Rationals rationals = new Rationals();
-            foreach (var item in rationals)
-            {
-                Console.WriteLine(item);
-            }
+            Console.WriteLine(rationals.GetRationalNumber(15));
 
             Console.ReadLine();
         }

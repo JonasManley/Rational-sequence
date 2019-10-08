@@ -17,6 +17,7 @@ namespace Rational_sequence
    
         public string GetRationalNumber(int nPlace)
         {
+            Console.WriteLine("values will be shown throughout the calculation of the rational number");
             Console.WriteLine("n:" + nPlace);
             var ln = Convert.ToInt32((-1 + Math.Sqrt(1 + 8 * nPlace)) / 2);
             Console.WriteLine("ln: " + ln);
@@ -31,8 +32,9 @@ namespace Rational_sequence
             //calculating Denominator dn of nPlace
             var dn = ln - (nPlace - sn) + 1;
             Console.WriteLine("dn: " + dn);
+            Console.WriteLine("--------Done-------");
 
-            return $"{ nm.ToString()}  / {dn.ToString()}";
+            return $"{nPlace + " as a rational number is: " + nm.ToString()}/{dn.ToString()}";
         }
 
 

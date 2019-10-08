@@ -11,3 +11,10 @@ C:\Users\Jonas\source\repos\Rational-sequence\Rational sequence\Rational sequenc
 C:\Users\Jonas\source\repos\Rational-sequence\Rational sequence\Rational sequence\obj\Debug\Rational sequence.csprojAssemblyReference.cache
 C:\Users\Jonas\source\repos\Rational-sequence\Rational sequence\Rational sequence\obj\Debug\Rational sequence.exe
 C:\Users\Jonas\source\repos\Rational-sequence\Rational sequence\Rational sequence\obj\Debug\Rational sequence.pdb
+C:\Users\Jonas\Documents\GitHub\Rational-sequence-assignment\Rational sequence\Rational sequence\bin\Debug\Rational sequence.exe.config
+C:\Users\Jonas\Documents\GitHub\Rational-sequence-assignment\Rational sequence\Rational sequence\bin\Debug\Rational sequence.exe
+C:\Users\Jonas\Documents\GitHub\Rational-sequence-assignment\Rational sequence\Rational sequence\bin\Debug\Rational sequence.pdb
+C:\Users\Jonas\Documents\GitHub\Rational-sequence-assignment\Rational sequence\Rational sequence\obj\Debug\Rational sequence.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\Rational-sequence-assignment\Rational sequence\Rational sequence\obj\Debug\Rational sequence.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\Rational-sequence-assignment\Rational sequence\Rational sequence\obj\Debug\Rational sequence.exe
+C:\Users\Jonas\Documents\GitHub\Rational-sequence-assignment\Rational sequence\Rational sequence\obj\Debug\Rational sequence.pdb

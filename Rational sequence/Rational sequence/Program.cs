@@ -13,7 +13,7 @@ namespace Rational_sequence
             Rationals rationals = new Rationals();
             Console.WriteLine(rationals.GetRationalNumber(15));
 
-            Console.WriteLine("----------------");
+            Console.WriteLine("-------------------");
 
             
 
